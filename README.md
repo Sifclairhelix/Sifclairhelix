@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sifclairhelix
 - 👀 I’m interested in Coding :D
-- 🌱 I’m currently learning Coding u know the typically languages :D
+- 🌱 I’m currently learning different languages
 - 💞️ I’m looking to collaborate on opensource projects sometime soon. 
 - 📫 How to reach me: by email would be nice.
 
